@@ -1,3 +1,3 @@
 # Act7_listas_6j
 
-<img width="1200" height="801" alt="image" src="https://github.com/user-attachments/assets/ef03d3f9-4362-4b4c-85e1-f450971b01eb" />
+<img width="1017" height="492" alt="image" src="https://github.com/user-attachments/assets/a41f515c-5e45-4acb-8092-ef0c273d1579" />
